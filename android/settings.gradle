@@ -1,0 +1,3 @@
+rootProject.name = 'adnin04'
+
+include ':app'
